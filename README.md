@@ -24,7 +24,10 @@
 
 ## 🖼️ اسکرین‌شات‌ها
 
-> به‌زودی اسکرین‌شات‌هایی از محیط برنامه اینجا اضافه می‌شود.
+![image](https://github.com/user-attachments/assets/29a34f50-c427-4d6b-bab0-2b4fb8ed169d)
+![image](https://github.com/user-attachments/assets/4e405a0f-4a46-4405-bb1a-026c3c5c8633)
+![image](https://github.com/user-attachments/assets/5376ef9b-b91d-4d60-bf2e-5a9e152a01b1)
+
 
 ---
 
