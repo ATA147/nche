@@ -21,13 +21,13 @@
 - 📡 نمایش اطلاعات حتی در حالت آفلاین (با کش آخرین داده‌ها)
 
 ---
-
 ## 🖼️ اسکرین‌شات‌ها
 
-![image](https://github.com/user-attachments/assets/29a34f50-c427-4d6b-bab0-2b4fb8ed169d)
-![image](https://github.com/user-attachments/assets/4e405a0f-4a46-4405-bb1a-026c3c5c8633)
-![image](https://github.com/user-attachments/assets/5376ef9b-b91d-4d60-bf2e-5a9e152a01b1)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29a34f50-c427-4d6b-bab0-2b4fb8ed169d" width="30%" style="margin-right: 8px;" />
+  <img src="https://github.com/user-attachments/assets/4e405a0f-4a46-4405-bb1a-026c3c5c8633" width="30%" style="margin-right: 8px;" />
+  <img src="https://github.com/user-attachments/assets/5376ef9b-b91d-4d60-bf2e-5a9e152a01b1" width="30%" />
+</p>
 
 ---
 
