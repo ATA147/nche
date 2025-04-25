@@ -4,7 +4,7 @@
 
 ## 📲 دانلود اپلیکیشن
 
-آخرین نسخه برنامه را از صفحه [ریلیزها](https://github.com/YOUR_USERNAME/nche/releases) دانلود کنید:
+آخرین نسخه برنامه را از صفحه [ریلیزها](https://github.com/ATA147/nche/releases) دانلود کنید:
 
 [![دانلود فایل APK](https://img.shields.io/badge/📥_دانلود_APK-سبز?style=for-the-badge&logo=android)](https://github.com/ATA147/nche/releases/latest)
 
